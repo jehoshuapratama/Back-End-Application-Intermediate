@@ -1,3 +1,5 @@
+/* eslint linebreak-style: ["error", "windows"] */
+
 const routes = (handler) => [
   {
     method: 'POST',
