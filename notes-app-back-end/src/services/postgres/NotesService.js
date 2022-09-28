@@ -1,5 +1,4 @@
 /* eslint-disable no-underscore-dangle */
-/* eslint linebreak-style: ["error", "windows"] */
 
 const { Pool } = require('pg');
 const { nanoid } = require('nanoid');

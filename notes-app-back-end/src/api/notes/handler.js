@@ -1,4 +1,3 @@
-/* eslint linebreak-style: ["error", "windows"] */
 const ClientError = require('../../exceptions/ClientError');
 
 /* eslint-disable no-underscore-dangle */
